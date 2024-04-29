@@ -1,1 +1,1 @@
-FROM airbyte/airbyte-api-server:0.57.2
+FROM airbyte/webapp:0.57.2
