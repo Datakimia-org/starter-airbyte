@@ -1,1 +1,1 @@
-FROM airbyte/webapp:0.57.2
+FROM airbyte/worker:0.57.2
